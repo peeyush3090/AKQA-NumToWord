@@ -1,0 +1,9 @@
+C:\Peeyush\NumToWord\NumToWordTest\bin\Debug\NumToWordTest.dll
+C:\Peeyush\NumToWord\NumToWordTest\bin\Debug\NumToWordTest.pdb
+C:\Peeyush\NumToWord\NumToWordTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Peeyush\NumToWord\NumToWordTest\bin\Debug\NumToWord.dll
+C:\Peeyush\NumToWord\NumToWordTest\bin\Debug\NumToWord.pdb
+C:\Peeyush\NumToWord\NumToWordTest\obj\Debug\NumToWordTest.csprojResolveAssemblyReference.cache
+C:\Peeyush\NumToWord\NumToWordTest\obj\Debug\NumToWordTest.dll
+C:\Peeyush\NumToWord\NumToWordTest\obj\Debug\NumToWordTest.pdb
+C:\Peeyush\NumToWord\NumToWordTest\bin\Debug\NumToWordTest.dll.config
